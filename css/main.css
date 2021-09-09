@@ -1,5 +1,6 @@
 body {
     color:blue;
+    
 }
 
 
@@ -36,6 +37,7 @@ nav {
 nav ul {
     display:flex;
     width:100%;
+
 }
 
 nav ul li{

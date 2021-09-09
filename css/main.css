@@ -2,7 +2,53 @@ body {
     color:blue;
 }
 
+
+.top_nav {
+    width:60%;
+    border: 1px solid;
+    display:flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    align-items: center;
+    padding:7px 0;
+}
+
+
+nav {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width:100%;
+    padding: 10px;
+}
+
+nav ul {
+    display:flex;
+    width:100%;
+}
+
+nav ul li{
+    list-style-type:none;
+    margin:0 auto;
+    cursor: pointer;
+}
+
+nav a {
+    display:flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color:orange;
+    box-shadow:linear-gradient(45deg, black, gray);
+}
+
+
+
 h1 {
+    display:flex;
+    justify-content: center;
     border: 1px solid;
     font-size:30px ;
 }

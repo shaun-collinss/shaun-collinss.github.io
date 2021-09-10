@@ -1,5 +1,7 @@
 body {
-    color:blue;
+    color:rgb(106, 120, 241);
+    background: rgba(30,30,30,255)
+    ;
     
 }
 
@@ -18,7 +20,7 @@ body {
     display:flex;
     align-items: column;
     width:100%;
-    background-color: orange;
+    background-color: rgb(255, 180, 81);
 
 }
 
@@ -51,7 +53,7 @@ nav a {
     justify-content: center;
     align-items: center;
     text-decoration: none;
-    background-color: orange;
+    background-color: rgb(255, 180, 81);
     border-radius: 50%;
     width: 100px;
     height:100px;
@@ -59,9 +61,9 @@ nav a {
 }
 
 nav a:hover{
-    color:orange;
+    color:rgb(255, 180, 81);
     box-shadow:linear-gradient(45deg, black, gray);
-    background-color: blue;
+    background-color: rgb(106, 120, 241);
     transform:scale(1.1);
 }
 
@@ -77,6 +79,22 @@ h1 {
 
 span{
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     padding: 1%;
+}
+
+.cheesecake{
+    display:flex;
+    background: cyan;
+}
+
+#pavlova {
+    display:flex;
+}
+
+.tech {
+    display: flex;
+    flex-wrap: wrap;
+    width:60%;
+    
 }

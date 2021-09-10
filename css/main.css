@@ -1,8 +1,9 @@
-body {
+* {
+    margin: 0;
+    padding: 0;
     color:rgb(106, 120, 241);
-    background: rgba(30,30,30,255)
-    ;
-    
+    background: rgba(30,30,30,255);
+    font-family:'Do Hyeon', cursive; /*'Nanum Brush Script', cursive;*/
 }
 
 

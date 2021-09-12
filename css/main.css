@@ -91,11 +91,13 @@ span{
 
 .blogtable{
     display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .tech {
     display: flex;
-    width:50%;
+    width:30%;
     align-items:center;
     flex-direction: column;
     text-decoration: none;
@@ -115,7 +117,7 @@ span{
 
 .core {
     display: flex;
-    width:50%;
+    width:30%;
     align-items: center;
     flex-direction: column;
     text-decoration: none;

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<htm lang="en">
+        <head>
+            <title>test</title>
+        </head>
+
+        <body>
+            <div id="app">
+                <header>
+                    <h1>Form submission test page</h1>
+                </header>
+                <main>
+                    <form id="catch-it">
+                        <input id="some-text">
+                        <input type="submit">
+
+                    </form>
+                    <p id="outputter"></p>
+                </main>
+
+        </body>
+
+        <script>
+            var form = document.querySelector('#catch-it')
+            var input = document.querySelector('#some-text')
+            var output = document.querySelector('#outputter')
+            var updater = function (e){
+                e.preventDefault()
+                output.innerHTML = 'Submitting form with"'+ input.value +'"'
+            }
+            form.addEventListener('submit', updater, false)
+        </script>
+
+</html>

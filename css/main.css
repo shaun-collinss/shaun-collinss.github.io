@@ -164,6 +164,14 @@ span{
     flex-wrap: wrap;
 }
 
+.container p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
 
 
 .frontpage-left{

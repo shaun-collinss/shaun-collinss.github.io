@@ -61,9 +61,10 @@ nav a:hover{
 
 
 
-h1 {
+.mainHeading {
     display:flex;
     justify-content: center;
+    align-items: center;
     border: 1px solid;
     font-size:30px ;
     margin:20px;
@@ -77,10 +78,11 @@ span{
 
 .content {
     display: flex;
-    margin: 1px auto;
+    margin: 20px auto;
     justify-content: center;
     border: 1px solid orange;
-    flex-direction: column;
+    flex-wrap: wrap;
+    
 }
 
 .blog{
@@ -159,14 +161,33 @@ span{
     padding: 10px;
     border-radius: 1em;
     width: auto;
+    flex-wrap: wrap;
 }
 
-h4{
+
+
+.frontpage-left{
     display: flex;
-    justify-content: center;
-    align-items: center;
     flex-direction: column;
-    background: rgba(255, 136, 0, 0.671);
-    border-radius: 1em;
+    justify-content: flex-start;
+    margin: 20px auto;
+    width: 50%;
 }
 
+.frontpage-right{
+    display: flex;
+    width: 50%;
+    height: 200px;
+    justify-content: flex-end;
+    background:red;
+    margin: 20px auto;
+}
+
+.cheesecakeimage {
+    display: flex;
+    background: url("../images/techblog/classvsids.png")  alt="cheesecakes vs loyalty cards";
+    width: 70%;
+    height:300px;
+    border-radius: 1rem;
+    z-index: 1;
+}

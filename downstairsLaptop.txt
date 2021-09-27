@@ -2,15 +2,17 @@ Research Neuroplasticity------------------------------------
 
 Discuss how understanding the principles of neuroplasticity benefits people - How can the principles of Neuroplasticity benefit people?
 
-
-
+At its core Neutoplacticity is about how the brain can continue to learn even going into old age. The brain is made up of billions upon billions of neurons. When we go to learn something new these neurons fire to create connections with other neurons to to build and retain synaptic connections. The more often a person can fire and use those synpatic connections the strong the connections become the easier it is to recall and use that information. This also means that the opposite is true and the old age adage of use it or lose it is also true. That after learning new skills if you do not spend any time fostering those skills you will eventually lose them. The benefit for this as well is that old bad habits can eventually be conquered and then removed from the pathway.
 
 Discuss how you might engage with the principles of neuroplasticity for your own benefit - How can I use some of these principles for my own benefit?
 
-
+As someone who sees themselves as a person that loves to practise and learn all sorts of things its really opened my mind up to how th brain physically works. For the past year and a bit I've done a bit of meditating and praying. I've found that prayer and meditation activate the same parts of the brain. Through doing this I've been able to anchor my days and give myself immense amounts of peace. You might at this point be wondering why this would help? When your in a more peaceful state of mind learning becomes all most effortless. You feel like the walls in your way are just crumbling. The benefit to this is that it makes it easier for the repeition that takes place when coding to build on and strengthen the synapses. Having an Aha! moment can only take you so far its the building repetitions that will get you the rest of the way. A part of my daily routine at the moment as an example is using Git Bash. I have a laptop upstairs and down stairs. So every day I am Git adding, Git Commiting, Git Pushing and Git Pulling to build those synaptic connections. Which in turn has helped to make me feel fairly comfortable with using Git. 
 
 What are some of the ways to increase your neuroplasticity? - Ways to increase Neuroplasticity.
 
+Focusing on one thing at a time.
+Building repetition.
+Reflecting upon the repetition.
 
 
 Link to a resource that you found particularly useful or engaging.
